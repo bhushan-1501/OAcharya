@@ -1,8 +1,8 @@
-<B>About OAcharya Webportal</B>
+# About OAcharya Webportal
 
 In the face of the ongoing pandemic, celebrating festivals has become challenging due to safety concerns and restrictions on gatherings. To address these issues, online platforms have emerged as convenient alternatives to ensure a safe environment. However, certain festivals involve elaborate ceremonial rituals that require the presence of a Pandit (a religious scholar or priest), which can present difficulties if bookings are cancelled or postponed. To overcome these challenges, our system offers an online platform that provides comprehensive support for festival celebrations. Users can access the platform from anywhere, allowing them to stay home while performing the rituals without interruptions. The website offers various features such as online Pandit bookings, audio and lyrics for rituals, explanations of festival meanings, and guidance on required materials. This ensures that users have the necessary resources and assistance to perform rituals accurately. By providing access to Pandits who can perform rituals on behalf of individuals or assist them during social gatherings, our website facilitates the seamless continuation of traditional practices.
 
-Screenshots: 
+# Screenshots: 
 
 1. Login Page 
 
